@@ -4,15 +4,35 @@ using UnityEngine;
 
 public class PlayerController : MonoBehaviour
 {
-    // Start is called before the first frame update
+    public float speed = 5f;
+
+    private Rigidbody2D rb;
+    private Vector2 moveInput;
+
     void Start()
     {
-        
+        rb = GetComponent<Rigidbody2D>();
     }
 
-    // Update is called once per frame
+    void FixedUpdate()
+    {
+        float moveHorizontal = Input.GetAxis("Horizontal");
+        float moveVertical = Input.GetAxis("Vertical");
+
+        moveInput = new Vector2(moveHorizontal, moveVertical).normalized;
+        rb.velocity = moveInput * speed;
+    }
+
     void Update()
     {
-        
+        if (Input.GetKeyUp(KeyCode.LeftArrow) || Input.GetKeyUp(KeyCode.RightArrow))
+        {
+            rb.velocity = new Vector2(0f, rb.velocity.y);
+        }
+
+        if (Input.GetKeyUp(KeyCode.UpArrow) || Input.GetKeyUp(KeyCode.DownArrow))
+        {
+            rb.velocity = new Vector2(rb.velocity.x, 0f);
+        }
     }
 }
