@@ -8,6 +8,7 @@ public class PlayerController : MonoBehaviour
     public float speed = 5f;
     public GameObject phoneUI1;
     public GameObject phoneUI2;
+    public GameObject WinCanvas;
 
     private Rigidbody2D rb;
     private Vector2 moveInput;
@@ -41,6 +42,12 @@ public class PlayerController : MonoBehaviour
         if (Input.GetKeyUp(KeyCode.UpArrow) || Input.GetKeyUp(KeyCode.DownArrow))
         {
             rb.velocity = new Vector2(rb.velocity.x, 0f);
+        }
+
+        if(phone1 == true && phone2 == true)
+        {
+            Time.timeScale = 0f;
+            WinCanvas.SetActive(true);
         }
     }
 

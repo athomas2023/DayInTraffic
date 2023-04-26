@@ -9,6 +9,7 @@ public class EnemyController : MonoBehaviour
     public bool dynamicMovement = false;
     public float distance = 5f;
     public bool facingRight = true;
+    public GameObject bad;
 
     Rigidbody2D rigidbody2D;
     float distanceTravelled = 0f;
@@ -84,7 +85,7 @@ public class EnemyController : MonoBehaviour
         if (other.gameObject.CompareTag("Player"))
         {
             Time.timeScale = 0f;
-            gameObject.GetComponentInChildren<Canvas>().gameObject.SetActive(true);
+            bad.SetActive(true);
         }
     }
 }
