@@ -47,7 +47,7 @@ TextureImporter:
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 100
+  spritePixelsToUnits: 25
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -1741,7 +1741,6 @@ TextureImporter:
       horse-golden_12: -345647300
       horse-golden_27: 393418663
       horse-golden_41: -945976994
-      horse-golden_67: 124510651
       horse-golden_29: 1354169955
       horse-golden_65: 1909830773
       horse-golden_72: 1747589594
@@ -1780,6 +1779,7 @@ TextureImporter:
       horse-golden_45: 1235658438
       horse-golden_6: -971205057
       horse-golden_20: -1022073917
+      horse-golden_67: 124510651
       horse-golden_17: -1590371518
       horse-golden_26: 1004756315
       horse-golden_52: 1065480271

@@ -130,6 +130,599 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 6203872653863369843, guid: f9d58f92ef45c634cab5eb4b0ea877e1, type: 3}
+      propertyPath: nextScene
+      value: Scene3
+      objectReference: {fileID: 0}
+    - target: {fileID: 6203872653863369843, guid: f9d58f92ef45c634cab5eb4b0ea877e1, type: 3}
+      propertyPath: maxDialogEntries
+      value: 18
+      objectReference: {fileID: 0}
+    - target: {fileID: 6203872653863369843, guid: f9d58f92ef45c634cab5eb4b0ea877e1, type: 3}
+      propertyPath: dialogEntries.Array.size
+      value: 18
+      objectReference: {fileID: 0}
+    - target: {fileID: 6203872653863369843, guid: f9d58f92ef45c634cab5eb4b0ea877e1, type: 3}
+      propertyPath: dialogEntries.Array.data[0].text
+      value: No Service of course.... Even if it had what will I do
+      objectReference: {fileID: 0}
+    - target: {fileID: 6203872653863369843, guid: f9d58f92ef45c634cab5eb4b0ea877e1, type: 3}
+      propertyPath: dialogEntries.Array.data[1].text
+      value: a door opened to the apartment
+      objectReference: {fileID: 0}
+    - target: {fileID: 6203872653863369843, guid: f9d58f92ef45c634cab5eb4b0ea877e1, type: 3}
+      propertyPath: dialogEntries.Array.data[2].text
+      value: Butterscott walked in. But she has burses all over her.
+      objectReference: {fileID: 0}
+    - target: {fileID: 6203872653863369843, guid: f9d58f92ef45c634cab5eb4b0ea877e1, type: 3}
+      propertyPath: dialogEntries.Array.data[3].font
+      value: 
+      objectReference: {fileID: 11400000, guid: 015dd337b7c9ccc4ebf81085c2b7b4fc, type: 2}
+    - target: {fileID: 6203872653863369843, guid: f9d58f92ef45c634cab5eb4b0ea877e1, type: 3}
+      propertyPath: dialogEntries.Array.data[3].text
+      value: What Happened,
+      objectReference: {fileID: 0}
+    - target: {fileID: 6203872653863369843, guid: f9d58f92ef45c634cab5eb4b0ea877e1, type: 3}
+      propertyPath: dialogEntries.Array.data[4].font
+      value: 
+      objectReference: {fileID: 11400000, guid: 015dd337b7c9ccc4ebf81085c2b7b4fc, type: 2}
+    - target: {fileID: 6203872653863369843, guid: f9d58f92ef45c634cab5eb4b0ea877e1, type: 3}
+      propertyPath: dialogEntries.Array.data[4].text
+      value: I tried to refuse..... I hate all this!  and now the master is talking
+        about moving me to a new location
+      objectReference: {fileID: 0}
+    - target: {fileID: 6203872653863369843, guid: f9d58f92ef45c634cab5eb4b0ea877e1, type: 3}
+      propertyPath: dialogEntries.Array.data[5].font
+      value: 
+      objectReference: {fileID: 11400000, guid: 015dd337b7c9ccc4ebf81085c2b7b4fc, type: 2}
+    - target: {fileID: 6203872653863369843, guid: f9d58f92ef45c634cab5eb4b0ea877e1, type: 3}
+      propertyPath: dialogEntries.Array.data[5].text
+      value: What
+      objectReference: {fileID: 0}
+    - target: {fileID: 6203872653863369843, guid: f9d58f92ef45c634cab5eb4b0ea877e1, type: 3}
+      propertyPath: dialogEntries.Array.data[6].font
+      value: 
+      objectReference: {fileID: 11400000, guid: 015dd337b7c9ccc4ebf81085c2b7b4fc, type: 2}
+    - target: {fileID: 6203872653863369843, guid: f9d58f92ef45c634cab5eb4b0ea877e1, type: 3}
+      propertyPath: dialogEntries.Array.data[6].text
+      value: Tomorrow He want me upstate at new location.. I just want to see my
+        family again
+      objectReference: {fileID: 0}
+    - target: {fileID: 6203872653863369843, guid: f9d58f92ef45c634cab5eb4b0ea877e1, type: 3}
+      propertyPath: dialogEntries.Array.data[7].font
+      value: 
+      objectReference: {fileID: 11400000, guid: 015dd337b7c9ccc4ebf81085c2b7b4fc, type: 2}
+    - target: {fileID: 6203872653863369843, guid: f9d58f92ef45c634cab5eb4b0ea877e1, type: 3}
+      propertyPath: dialogEntries.Array.data[7].text
+      value: One day we will ....
+      objectReference: {fileID: 0}
+    - target: {fileID: 6203872653863369843, guid: f9d58f92ef45c634cab5eb4b0ea877e1, type: 3}
+      propertyPath: dialogEntries.Array.data[8].font
+      value: 
+      objectReference: {fileID: 11400000, guid: 015dd337b7c9ccc4ebf81085c2b7b4fc, type: 2}
+    - target: {fileID: 6203872653863369843, guid: f9d58f92ef45c634cab5eb4b0ea877e1, type: 3}
+      propertyPath: dialogEntries.Array.data[8].text
+      value: You been saying that since we got here.
+      objectReference: {fileID: 0}
+    - target: {fileID: 6203872653863369843, guid: f9d58f92ef45c634cab5eb4b0ea877e1, type: 3}
+      propertyPath: dialogEntries.Array.data[9].font
+      value: 
+      objectReference: {fileID: 11400000, guid: 015dd337b7c9ccc4ebf81085c2b7b4fc, type: 2}
+    - target: {fileID: 6203872653863369843, guid: f9d58f92ef45c634cab5eb4b0ea877e1, type: 3}
+      propertyPath: dialogEntries.Array.data[9].text
+      value: I am for real I will find away out..
+      objectReference: {fileID: 0}
+    - target: {fileID: 6203872653863369843, guid: f9d58f92ef45c634cab5eb4b0ea877e1, type: 3}
+      propertyPath: dialogEntries.Array.data[10].font
+      value: 
+      objectReference: {fileID: 11400000, guid: 015dd337b7c9ccc4ebf81085c2b7b4fc, type: 2}
+    - target: {fileID: 6203872653863369843, guid: f9d58f92ef45c634cab5eb4b0ea877e1, type: 3}
+      propertyPath: dialogEntries.Array.data[10].text
+      value: ....... I know you will. but I can not wait anymore. i do not have anymore
+        time. If i run , no one will be safe.
+      objectReference: {fileID: 0}
+    - target: {fileID: 6203872653863369843, guid: f9d58f92ef45c634cab5eb4b0ea877e1, type: 3}
+      propertyPath: dialogEntries.Array.data[11].font
+      value: 
+      objectReference: {fileID: 11400000, guid: 015dd337b7c9ccc4ebf81085c2b7b4fc, type: 2}
+    - target: {fileID: 6203872653863369843, guid: f9d58f92ef45c634cab5eb4b0ea877e1, type: 3}
+      propertyPath: dialogEntries.Array.data[11].text
+      value: What are you saying
+      objectReference: {fileID: 0}
+    - target: {fileID: 6203872653863369843, guid: f9d58f92ef45c634cab5eb4b0ea877e1, type: 3}
+      propertyPath: dialogEntries.Array.data[12].font
+      value: 
+      objectReference: {fileID: 11400000, guid: 015dd337b7c9ccc4ebf81085c2b7b4fc, type: 2}
+    - target: {fileID: 6203872653863369843, guid: f9d58f92ef45c634cab5eb4b0ea877e1, type: 3}
+      propertyPath: dialogEntries.Array.data[12].text
+      value: I love you dear friend....
+      objectReference: {fileID: 0}
+    - target: {fileID: 6203872653863369843, guid: f9d58f92ef45c634cab5eb4b0ea877e1, type: 3}
+      propertyPath: dialogEntries.Array.data[13].font
+      value: 
+      objectReference: {fileID: 11400000, guid: 015dd337b7c9ccc4ebf81085c2b7b4fc, type: 2}
+    - target: {fileID: 6203872653863369843, guid: f9d58f92ef45c634cab5eb4b0ea877e1, type: 3}
+      propertyPath: dialogEntries.Array.data[13].text
+      value: What are you doing... why you holding yourself like that
+      objectReference: {fileID: 0}
+    - target: {fileID: 6203872653863369843, guid: f9d58f92ef45c634cab5eb4b0ea877e1, type: 3}
+      propertyPath: dialogEntries.Array.data[14].font
+      value: 
+      objectReference: {fileID: 11400000, guid: 015dd337b7c9ccc4ebf81085c2b7b4fc, type: 2}
+    - target: {fileID: 6203872653863369843, guid: f9d58f92ef45c634cab5eb4b0ea877e1, type: 3}
+      propertyPath: dialogEntries.Array.data[14].text
+      value: She fell to the ground infront of me and blood started dripping from
+        her mouth.
+      objectReference: {fileID: 0}
+    - target: {fileID: 6203872653863369843, guid: f9d58f92ef45c634cab5eb4b0ea877e1, type: 3}
+      propertyPath: dialogEntries.Array.data[15].font
+      value: 
+      objectReference: {fileID: 11400000, guid: 015dd337b7c9ccc4ebf81085c2b7b4fc, type: 2}
+    - target: {fileID: 6203872653863369843, guid: f9d58f92ef45c634cab5eb4b0ea877e1, type: 3}
+      propertyPath: dialogEntries.Array.data[15].text
+      value: I noticed in her hand a bottle of posion .........I would love to drink
+        some too
+      objectReference: {fileID: 0}
+    - target: {fileID: 6203872653863369843, guid: f9d58f92ef45c634cab5eb4b0ea877e1, type: 3}
+      propertyPath: dialogEntries.Array.data[16].font
+      value: 
+      objectReference: {fileID: 11400000, guid: 015dd337b7c9ccc4ebf81085c2b7b4fc, type: 2}
+    - target: {fileID: 6203872653863369843, guid: f9d58f92ef45c634cab5eb4b0ea877e1, type: 3}
+      propertyPath: dialogEntries.Array.data[16].text
+      value: I bet everyone locked up in this compond would love to.
+      objectReference: {fileID: 0}
+    - target: {fileID: 6203872653863369843, guid: f9d58f92ef45c634cab5eb4b0ea877e1, type: 3}
+      propertyPath: dialogEntries.Array.data[17].font
+      value: 
+      objectReference: {fileID: 11400000, guid: 015dd337b7c9ccc4ebf81085c2b7b4fc, type: 2}
+    - target: {fileID: 6203872653863369843, guid: f9d58f92ef45c634cab5eb4b0ea877e1, type: 3}
+      propertyPath: dialogEntries.Array.data[17].text
+      value: 'I have to escape.... '
+      objectReference: {fileID: 0}
+    - target: {fileID: 6203872653863369843, guid: f9d58f92ef45c634cab5eb4b0ea877e1, type: 3}
+      propertyPath: dialogEntries.Array.data[3].fontSize
+      value: 72
+      objectReference: {fileID: 0}
+    - target: {fileID: 6203872653863369843, guid: f9d58f92ef45c634cab5eb4b0ea877e1, type: 3}
+      propertyPath: dialogEntries.Array.data[4].fontSize
+      value: 72
+      objectReference: {fileID: 0}
+    - target: {fileID: 6203872653863369843, guid: f9d58f92ef45c634cab5eb4b0ea877e1, type: 3}
+      propertyPath: dialogEntries.Array.data[5].fontSize
+      value: 72
+      objectReference: {fileID: 0}
+    - target: {fileID: 6203872653863369843, guid: f9d58f92ef45c634cab5eb4b0ea877e1, type: 3}
+      propertyPath: dialogEntries.Array.data[6].fontSize
+      value: 72
+      objectReference: {fileID: 0}
+    - target: {fileID: 6203872653863369843, guid: f9d58f92ef45c634cab5eb4b0ea877e1, type: 3}
+      propertyPath: dialogEntries.Array.data[7].fontSize
+      value: 72
+      objectReference: {fileID: 0}
+    - target: {fileID: 6203872653863369843, guid: f9d58f92ef45c634cab5eb4b0ea877e1, type: 3}
+      propertyPath: dialogEntries.Array.data[8].fontSize
+      value: 72
+      objectReference: {fileID: 0}
+    - target: {fileID: 6203872653863369843, guid: f9d58f92ef45c634cab5eb4b0ea877e1, type: 3}
+      propertyPath: dialogEntries.Array.data[9].fontSize
+      value: 72
+      objectReference: {fileID: 0}
+    - target: {fileID: 6203872653863369843, guid: f9d58f92ef45c634cab5eb4b0ea877e1, type: 3}
+      propertyPath: dialogEntries.Array.data[10].fontSize
+      value: 72
+      objectReference: {fileID: 0}
+    - target: {fileID: 6203872653863369843, guid: f9d58f92ef45c634cab5eb4b0ea877e1, type: 3}
+      propertyPath: dialogEntries.Array.data[11].fontSize
+      value: 72
+      objectReference: {fileID: 0}
+    - target: {fileID: 6203872653863369843, guid: f9d58f92ef45c634cab5eb4b0ea877e1, type: 3}
+      propertyPath: dialogEntries.Array.data[12].fontSize
+      value: 72
+      objectReference: {fileID: 0}
+    - target: {fileID: 6203872653863369843, guid: f9d58f92ef45c634cab5eb4b0ea877e1, type: 3}
+      propertyPath: dialogEntries.Array.data[13].fontSize
+      value: 72
+      objectReference: {fileID: 0}
+    - target: {fileID: 6203872653863369843, guid: f9d58f92ef45c634cab5eb4b0ea877e1, type: 3}
+      propertyPath: dialogEntries.Array.data[14].fontSize
+      value: 72
+      objectReference: {fileID: 0}
+    - target: {fileID: 6203872653863369843, guid: f9d58f92ef45c634cab5eb4b0ea877e1, type: 3}
+      propertyPath: dialogEntries.Array.data[15].fontSize
+      value: 72
+      objectReference: {fileID: 0}
+    - target: {fileID: 6203872653863369843, guid: f9d58f92ef45c634cab5eb4b0ea877e1, type: 3}
+      propertyPath: dialogEntries.Array.data[16].fontSize
+      value: 72
+      objectReference: {fileID: 0}
+    - target: {fileID: 6203872653863369843, guid: f9d58f92ef45c634cab5eb4b0ea877e1, type: 3}
+      propertyPath: dialogEntries.Array.data[17].fontSize
+      value: 72
+      objectReference: {fileID: 0}
+    - target: {fileID: 6203872653863369843, guid: f9d58f92ef45c634cab5eb4b0ea877e1, type: 3}
+      propertyPath: dialogEntries.Array.data[3].fontColor.a
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 6203872653863369843, guid: f9d58f92ef45c634cab5eb4b0ea877e1, type: 3}
+      propertyPath: dialogEntries.Array.data[3].fontColor.b
+      value: 0.9765041
+      objectReference: {fileID: 0}
+    - target: {fileID: 6203872653863369843, guid: f9d58f92ef45c634cab5eb4b0ea877e1, type: 3}
+      propertyPath: dialogEntries.Array.data[3].fontColor.g
+      value: 0.9765041
+      objectReference: {fileID: 0}
+    - target: {fileID: 6203872653863369843, guid: f9d58f92ef45c634cab5eb4b0ea877e1, type: 3}
+      propertyPath: dialogEntries.Array.data[3].fontColor.r
+      value: 0.9811321
+      objectReference: {fileID: 0}
+    - target: {fileID: 6203872653863369843, guid: f9d58f92ef45c634cab5eb4b0ea877e1, type: 3}
+      propertyPath: dialogEntries.Array.data[4].fontColor.a
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 6203872653863369843, guid: f9d58f92ef45c634cab5eb4b0ea877e1, type: 3}
+      propertyPath: dialogEntries.Array.data[4].fontColor.b
+      value: 0.9765041
+      objectReference: {fileID: 0}
+    - target: {fileID: 6203872653863369843, guid: f9d58f92ef45c634cab5eb4b0ea877e1, type: 3}
+      propertyPath: dialogEntries.Array.data[4].fontColor.g
+      value: 0.9765041
+      objectReference: {fileID: 0}
+    - target: {fileID: 6203872653863369843, guid: f9d58f92ef45c634cab5eb4b0ea877e1, type: 3}
+      propertyPath: dialogEntries.Array.data[4].fontColor.r
+      value: 0.9811321
+      objectReference: {fileID: 0}
+    - target: {fileID: 6203872653863369843, guid: f9d58f92ef45c634cab5eb4b0ea877e1, type: 3}
+      propertyPath: dialogEntries.Array.data[5].fontColor.a
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 6203872653863369843, guid: f9d58f92ef45c634cab5eb4b0ea877e1, type: 3}
+      propertyPath: dialogEntries.Array.data[5].fontColor.b
+      value: 0.9765041
+      objectReference: {fileID: 0}
+    - target: {fileID: 6203872653863369843, guid: f9d58f92ef45c634cab5eb4b0ea877e1, type: 3}
+      propertyPath: dialogEntries.Array.data[5].fontColor.g
+      value: 0.9765041
+      objectReference: {fileID: 0}
+    - target: {fileID: 6203872653863369843, guid: f9d58f92ef45c634cab5eb4b0ea877e1, type: 3}
+      propertyPath: dialogEntries.Array.data[5].fontColor.r
+      value: 0.9811321
+      objectReference: {fileID: 0}
+    - target: {fileID: 6203872653863369843, guid: f9d58f92ef45c634cab5eb4b0ea877e1, type: 3}
+      propertyPath: dialogEntries.Array.data[6].fontColor.a
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 6203872653863369843, guid: f9d58f92ef45c634cab5eb4b0ea877e1, type: 3}
+      propertyPath: dialogEntries.Array.data[6].fontColor.b
+      value: 0.9765041
+      objectReference: {fileID: 0}
+    - target: {fileID: 6203872653863369843, guid: f9d58f92ef45c634cab5eb4b0ea877e1, type: 3}
+      propertyPath: dialogEntries.Array.data[6].fontColor.g
+      value: 0.9765041
+      objectReference: {fileID: 0}
+    - target: {fileID: 6203872653863369843, guid: f9d58f92ef45c634cab5eb4b0ea877e1, type: 3}
+      propertyPath: dialogEntries.Array.data[6].fontColor.r
+      value: 0.9811321
+      objectReference: {fileID: 0}
+    - target: {fileID: 6203872653863369843, guid: f9d58f92ef45c634cab5eb4b0ea877e1, type: 3}
+      propertyPath: dialogEntries.Array.data[7].fontColor.a
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 6203872653863369843, guid: f9d58f92ef45c634cab5eb4b0ea877e1, type: 3}
+      propertyPath: dialogEntries.Array.data[7].fontColor.b
+      value: 0.9765041
+      objectReference: {fileID: 0}
+    - target: {fileID: 6203872653863369843, guid: f9d58f92ef45c634cab5eb4b0ea877e1, type: 3}
+      propertyPath: dialogEntries.Array.data[7].fontColor.g
+      value: 0.9765041
+      objectReference: {fileID: 0}
+    - target: {fileID: 6203872653863369843, guid: f9d58f92ef45c634cab5eb4b0ea877e1, type: 3}
+      propertyPath: dialogEntries.Array.data[7].fontColor.r
+      value: 0.9811321
+      objectReference: {fileID: 0}
+    - target: {fileID: 6203872653863369843, guid: f9d58f92ef45c634cab5eb4b0ea877e1, type: 3}
+      propertyPath: dialogEntries.Array.data[8].fontColor.a
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 6203872653863369843, guid: f9d58f92ef45c634cab5eb4b0ea877e1, type: 3}
+      propertyPath: dialogEntries.Array.data[8].fontColor.b
+      value: 0.9765041
+      objectReference: {fileID: 0}
+    - target: {fileID: 6203872653863369843, guid: f9d58f92ef45c634cab5eb4b0ea877e1, type: 3}
+      propertyPath: dialogEntries.Array.data[8].fontColor.g
+      value: 0.9765041
+      objectReference: {fileID: 0}
+    - target: {fileID: 6203872653863369843, guid: f9d58f92ef45c634cab5eb4b0ea877e1, type: 3}
+      propertyPath: dialogEntries.Array.data[8].fontColor.r
+      value: 0.9811321
+      objectReference: {fileID: 0}
+    - target: {fileID: 6203872653863369843, guid: f9d58f92ef45c634cab5eb4b0ea877e1, type: 3}
+      propertyPath: dialogEntries.Array.data[9].fontColor.a
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 6203872653863369843, guid: f9d58f92ef45c634cab5eb4b0ea877e1, type: 3}
+      propertyPath: dialogEntries.Array.data[9].fontColor.b
+      value: 0.9765041
+      objectReference: {fileID: 0}
+    - target: {fileID: 6203872653863369843, guid: f9d58f92ef45c634cab5eb4b0ea877e1, type: 3}
+      propertyPath: dialogEntries.Array.data[9].fontColor.g
+      value: 0.9765041
+      objectReference: {fileID: 0}
+    - target: {fileID: 6203872653863369843, guid: f9d58f92ef45c634cab5eb4b0ea877e1, type: 3}
+      propertyPath: dialogEntries.Array.data[9].fontColor.r
+      value: 0.9811321
+      objectReference: {fileID: 0}
+    - target: {fileID: 6203872653863369843, guid: f9d58f92ef45c634cab5eb4b0ea877e1, type: 3}
+      propertyPath: dialogEntries.Array.data[10].fontColor.a
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 6203872653863369843, guid: f9d58f92ef45c634cab5eb4b0ea877e1, type: 3}
+      propertyPath: dialogEntries.Array.data[10].fontColor.b
+      value: 0.9765041
+      objectReference: {fileID: 0}
+    - target: {fileID: 6203872653863369843, guid: f9d58f92ef45c634cab5eb4b0ea877e1, type: 3}
+      propertyPath: dialogEntries.Array.data[10].fontColor.g
+      value: 0.9765041
+      objectReference: {fileID: 0}
+    - target: {fileID: 6203872653863369843, guid: f9d58f92ef45c634cab5eb4b0ea877e1, type: 3}
+      propertyPath: dialogEntries.Array.data[10].fontColor.r
+      value: 0.9811321
+      objectReference: {fileID: 0}
+    - target: {fileID: 6203872653863369843, guid: f9d58f92ef45c634cab5eb4b0ea877e1, type: 3}
+      propertyPath: dialogEntries.Array.data[11].fontColor.a
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 6203872653863369843, guid: f9d58f92ef45c634cab5eb4b0ea877e1, type: 3}
+      propertyPath: dialogEntries.Array.data[11].fontColor.b
+      value: 0.9765041
+      objectReference: {fileID: 0}
+    - target: {fileID: 6203872653863369843, guid: f9d58f92ef45c634cab5eb4b0ea877e1, type: 3}
+      propertyPath: dialogEntries.Array.data[11].fontColor.g
+      value: 0.9765041
+      objectReference: {fileID: 0}
+    - target: {fileID: 6203872653863369843, guid: f9d58f92ef45c634cab5eb4b0ea877e1, type: 3}
+      propertyPath: dialogEntries.Array.data[11].fontColor.r
+      value: 0.9811321
+      objectReference: {fileID: 0}
+    - target: {fileID: 6203872653863369843, guid: f9d58f92ef45c634cab5eb4b0ea877e1, type: 3}
+      propertyPath: dialogEntries.Array.data[12].fontColor.a
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 6203872653863369843, guid: f9d58f92ef45c634cab5eb4b0ea877e1, type: 3}
+      propertyPath: dialogEntries.Array.data[12].fontColor.b
+      value: 0.9765041
+      objectReference: {fileID: 0}
+    - target: {fileID: 6203872653863369843, guid: f9d58f92ef45c634cab5eb4b0ea877e1, type: 3}
+      propertyPath: dialogEntries.Array.data[12].fontColor.g
+      value: 0.9765041
+      objectReference: {fileID: 0}
+    - target: {fileID: 6203872653863369843, guid: f9d58f92ef45c634cab5eb4b0ea877e1, type: 3}
+      propertyPath: dialogEntries.Array.data[12].fontColor.r
+      value: 0.9811321
+      objectReference: {fileID: 0}
+    - target: {fileID: 6203872653863369843, guid: f9d58f92ef45c634cab5eb4b0ea877e1, type: 3}
+      propertyPath: dialogEntries.Array.data[13].fontColor.a
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 6203872653863369843, guid: f9d58f92ef45c634cab5eb4b0ea877e1, type: 3}
+      propertyPath: dialogEntries.Array.data[13].fontColor.b
+      value: 0.9765041
+      objectReference: {fileID: 0}
+    - target: {fileID: 6203872653863369843, guid: f9d58f92ef45c634cab5eb4b0ea877e1, type: 3}
+      propertyPath: dialogEntries.Array.data[13].fontColor.g
+      value: 0.9765041
+      objectReference: {fileID: 0}
+    - target: {fileID: 6203872653863369843, guid: f9d58f92ef45c634cab5eb4b0ea877e1, type: 3}
+      propertyPath: dialogEntries.Array.data[13].fontColor.r
+      value: 0.9811321
+      objectReference: {fileID: 0}
+    - target: {fileID: 6203872653863369843, guid: f9d58f92ef45c634cab5eb4b0ea877e1, type: 3}
+      propertyPath: dialogEntries.Array.data[14].fontColor.a
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 6203872653863369843, guid: f9d58f92ef45c634cab5eb4b0ea877e1, type: 3}
+      propertyPath: dialogEntries.Array.data[14].fontColor.b
+      value: 0.9765041
+      objectReference: {fileID: 0}
+    - target: {fileID: 6203872653863369843, guid: f9d58f92ef45c634cab5eb4b0ea877e1, type: 3}
+      propertyPath: dialogEntries.Array.data[14].fontColor.g
+      value: 0.9765041
+      objectReference: {fileID: 0}
+    - target: {fileID: 6203872653863369843, guid: f9d58f92ef45c634cab5eb4b0ea877e1, type: 3}
+      propertyPath: dialogEntries.Array.data[14].fontColor.r
+      value: 0.9811321
+      objectReference: {fileID: 0}
+    - target: {fileID: 6203872653863369843, guid: f9d58f92ef45c634cab5eb4b0ea877e1, type: 3}
+      propertyPath: dialogEntries.Array.data[15].fontColor.a
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 6203872653863369843, guid: f9d58f92ef45c634cab5eb4b0ea877e1, type: 3}
+      propertyPath: dialogEntries.Array.data[15].fontColor.b
+      value: 0.9765041
+      objectReference: {fileID: 0}
+    - target: {fileID: 6203872653863369843, guid: f9d58f92ef45c634cab5eb4b0ea877e1, type: 3}
+      propertyPath: dialogEntries.Array.data[15].fontColor.g
+      value: 0.9765041
+      objectReference: {fileID: 0}
+    - target: {fileID: 6203872653863369843, guid: f9d58f92ef45c634cab5eb4b0ea877e1, type: 3}
+      propertyPath: dialogEntries.Array.data[15].fontColor.r
+      value: 0.9811321
+      objectReference: {fileID: 0}
+    - target: {fileID: 6203872653863369843, guid: f9d58f92ef45c634cab5eb4b0ea877e1, type: 3}
+      propertyPath: dialogEntries.Array.data[16].fontColor.a
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 6203872653863369843, guid: f9d58f92ef45c634cab5eb4b0ea877e1, type: 3}
+      propertyPath: dialogEntries.Array.data[16].fontColor.b
+      value: 0.9765041
+      objectReference: {fileID: 0}
+    - target: {fileID: 6203872653863369843, guid: f9d58f92ef45c634cab5eb4b0ea877e1, type: 3}
+      propertyPath: dialogEntries.Array.data[16].fontColor.g
+      value: 0.9765041
+      objectReference: {fileID: 0}
+    - target: {fileID: 6203872653863369843, guid: f9d58f92ef45c634cab5eb4b0ea877e1, type: 3}
+      propertyPath: dialogEntries.Array.data[16].fontColor.r
+      value: 0.9811321
+      objectReference: {fileID: 0}
+    - target: {fileID: 6203872653863369843, guid: f9d58f92ef45c634cab5eb4b0ea877e1, type: 3}
+      propertyPath: dialogEntries.Array.data[17].fontColor.a
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 6203872653863369843, guid: f9d58f92ef45c634cab5eb4b0ea877e1, type: 3}
+      propertyPath: dialogEntries.Array.data[17].fontColor.b
+      value: 0.9765041
+      objectReference: {fileID: 0}
+    - target: {fileID: 6203872653863369843, guid: f9d58f92ef45c634cab5eb4b0ea877e1, type: 3}
+      propertyPath: dialogEntries.Array.data[17].fontColor.g
+      value: 0.9765041
+      objectReference: {fileID: 0}
+    - target: {fileID: 6203872653863369843, guid: f9d58f92ef45c634cab5eb4b0ea877e1, type: 3}
+      propertyPath: dialogEntries.Array.data[17].fontColor.r
+      value: 0.9811321
+      objectReference: {fileID: 0}
+    - target: {fileID: 6203872653863369843, guid: f9d58f92ef45c634cab5eb4b0ea877e1, type: 3}
+      propertyPath: dialogEntries.Array.data[0].typeWriterSpeed
+      value: 0.05
+      objectReference: {fileID: 0}
+    - target: {fileID: 6203872653863369843, guid: f9d58f92ef45c634cab5eb4b0ea877e1, type: 3}
+      propertyPath: dialogEntries.Array.data[1].typeWriterSpeed
+      value: 0.05
+      objectReference: {fileID: 0}
+    - target: {fileID: 6203872653863369843, guid: f9d58f92ef45c634cab5eb4b0ea877e1, type: 3}
+      propertyPath: dialogEntries.Array.data[2].typeWriterSpeed
+      value: 0.05
+      objectReference: {fileID: 0}
+    - target: {fileID: 6203872653863369843, guid: f9d58f92ef45c634cab5eb4b0ea877e1, type: 3}
+      propertyPath: dialogEntries.Array.data[3].typeWriterSpeed
+      value: 0.05
+      objectReference: {fileID: 0}
+    - target: {fileID: 6203872653863369843, guid: f9d58f92ef45c634cab5eb4b0ea877e1, type: 3}
+      propertyPath: dialogEntries.Array.data[4].typeWriterSpeed
+      value: 0.05
+      objectReference: {fileID: 0}
+    - target: {fileID: 6203872653863369843, guid: f9d58f92ef45c634cab5eb4b0ea877e1, type: 3}
+      propertyPath: dialogEntries.Array.data[5].typeWriterSpeed
+      value: 0.05
+      objectReference: {fileID: 0}
+    - target: {fileID: 6203872653863369843, guid: f9d58f92ef45c634cab5eb4b0ea877e1, type: 3}
+      propertyPath: dialogEntries.Array.data[6].typeWriterSpeed
+      value: 0.05
+      objectReference: {fileID: 0}
+    - target: {fileID: 6203872653863369843, guid: f9d58f92ef45c634cab5eb4b0ea877e1, type: 3}
+      propertyPath: dialogEntries.Array.data[7].typeWriterSpeed
+      value: 0.05
+      objectReference: {fileID: 0}
+    - target: {fileID: 6203872653863369843, guid: f9d58f92ef45c634cab5eb4b0ea877e1, type: 3}
+      propertyPath: dialogEntries.Array.data[8].typeWriterSpeed
+      value: 0.05
+      objectReference: {fileID: 0}
+    - target: {fileID: 6203872653863369843, guid: f9d58f92ef45c634cab5eb4b0ea877e1, type: 3}
+      propertyPath: dialogEntries.Array.data[9].typeWriterSpeed
+      value: 0.05
+      objectReference: {fileID: 0}
+    - target: {fileID: 6203872653863369843, guid: f9d58f92ef45c634cab5eb4b0ea877e1, type: 3}
+      propertyPath: dialogEntries.Array.data[0].typeWriterEffect
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 6203872653863369843, guid: f9d58f92ef45c634cab5eb4b0ea877e1, type: 3}
+      propertyPath: dialogEntries.Array.data[10].typeWriterSpeed
+      value: 0.05
+      objectReference: {fileID: 0}
+    - target: {fileID: 6203872653863369843, guid: f9d58f92ef45c634cab5eb4b0ea877e1, type: 3}
+      propertyPath: dialogEntries.Array.data[11].typeWriterSpeed
+      value: 0.05
+      objectReference: {fileID: 0}
+    - target: {fileID: 6203872653863369843, guid: f9d58f92ef45c634cab5eb4b0ea877e1, type: 3}
+      propertyPath: dialogEntries.Array.data[12].typeWriterSpeed
+      value: 0.05
+      objectReference: {fileID: 0}
+    - target: {fileID: 6203872653863369843, guid: f9d58f92ef45c634cab5eb4b0ea877e1, type: 3}
+      propertyPath: dialogEntries.Array.data[13].typeWriterSpeed
+      value: 0.05
+      objectReference: {fileID: 0}
+    - target: {fileID: 6203872653863369843, guid: f9d58f92ef45c634cab5eb4b0ea877e1, type: 3}
+      propertyPath: dialogEntries.Array.data[14].typeWriterSpeed
+      value: 0.05
+      objectReference: {fileID: 0}
+    - target: {fileID: 6203872653863369843, guid: f9d58f92ef45c634cab5eb4b0ea877e1, type: 3}
+      propertyPath: dialogEntries.Array.data[15].typeWriterSpeed
+      value: 0.05
+      objectReference: {fileID: 0}
+    - target: {fileID: 6203872653863369843, guid: f9d58f92ef45c634cab5eb4b0ea877e1, type: 3}
+      propertyPath: dialogEntries.Array.data[16].typeWriterSpeed
+      value: 0.05
+      objectReference: {fileID: 0}
+    - target: {fileID: 6203872653863369843, guid: f9d58f92ef45c634cab5eb4b0ea877e1, type: 3}
+      propertyPath: dialogEntries.Array.data[17].typeWriterSpeed
+      value: 0.05
+      objectReference: {fileID: 0}
+    - target: {fileID: 6203872653863369843, guid: f9d58f92ef45c634cab5eb4b0ea877e1, type: 3}
+      propertyPath: dialogEntries.Array.data[1].typeWriterEffect
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 6203872653863369843, guid: f9d58f92ef45c634cab5eb4b0ea877e1, type: 3}
+      propertyPath: dialogEntries.Array.data[2].typeWriterEffect
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 6203872653863369843, guid: f9d58f92ef45c634cab5eb4b0ea877e1, type: 3}
+      propertyPath: dialogEntries.Array.data[3].typeWriterEffect
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 6203872653863369843, guid: f9d58f92ef45c634cab5eb4b0ea877e1, type: 3}
+      propertyPath: dialogEntries.Array.data[4].typeWriterEffect
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 6203872653863369843, guid: f9d58f92ef45c634cab5eb4b0ea877e1, type: 3}
+      propertyPath: dialogEntries.Array.data[5].typeWriterEffect
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 6203872653863369843, guid: f9d58f92ef45c634cab5eb4b0ea877e1, type: 3}
+      propertyPath: dialogEntries.Array.data[6].typeWriterEffect
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 6203872653863369843, guid: f9d58f92ef45c634cab5eb4b0ea877e1, type: 3}
+      propertyPath: dialogEntries.Array.data[7].typeWriterEffect
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 6203872653863369843, guid: f9d58f92ef45c634cab5eb4b0ea877e1, type: 3}
+      propertyPath: dialogEntries.Array.data[8].typeWriterEffect
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 6203872653863369843, guid: f9d58f92ef45c634cab5eb4b0ea877e1, type: 3}
+      propertyPath: dialogEntries.Array.data[9].typeWriterEffect
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 6203872653863369843, guid: f9d58f92ef45c634cab5eb4b0ea877e1, type: 3}
+      propertyPath: dialogEntries.Array.data[10].typeWriterEffect
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 6203872653863369843, guid: f9d58f92ef45c634cab5eb4b0ea877e1, type: 3}
+      propertyPath: dialogEntries.Array.data[11].typeWriterEffect
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 6203872653863369843, guid: f9d58f92ef45c634cab5eb4b0ea877e1, type: 3}
+      propertyPath: dialogEntries.Array.data[12].typeWriterEffect
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 6203872653863369843, guid: f9d58f92ef45c634cab5eb4b0ea877e1, type: 3}
+      propertyPath: dialogEntries.Array.data[13].typeWriterEffect
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 6203872653863369843, guid: f9d58f92ef45c634cab5eb4b0ea877e1, type: 3}
+      propertyPath: dialogEntries.Array.data[14].typeWriterEffect
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 6203872653863369843, guid: f9d58f92ef45c634cab5eb4b0ea877e1, type: 3}
+      propertyPath: dialogEntries.Array.data[15].typeWriterEffect
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 6203872653863369843, guid: f9d58f92ef45c634cab5eb4b0ea877e1, type: 3}
+      propertyPath: dialogEntries.Array.data[16].typeWriterEffect
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 6203872653863369843, guid: f9d58f92ef45c634cab5eb4b0ea877e1, type: 3}
+      propertyPath: dialogEntries.Array.data[17].typeWriterEffect
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 6203872653863369844, guid: f9d58f92ef45c634cab5eb4b0ea877e1, type: 3}
       propertyPath: m_Name
       value: memory
@@ -217,6 +810,34 @@ PrefabInstance:
     - target: {fileID: 6203872653863370127, guid: f9d58f92ef45c634cab5eb4b0ea877e1, type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6203872654446539602, guid: f9d58f92ef45c634cab5eb4b0ea877e1, type: 3}
+      propertyPath: m_AnchoredPosition.y
+      value: 28
+      objectReference: {fileID: 0}
+    - target: {fileID: 6203872654446539604, guid: f9d58f92ef45c634cab5eb4b0ea877e1, type: 3}
+      propertyPath: m_fontSize
+      value: 72
+      objectReference: {fileID: 0}
+    - target: {fileID: 6203872654446539604, guid: f9d58f92ef45c634cab5eb4b0ea877e1, type: 3}
+      propertyPath: m_margin.w
+      value: -176.98395
+      objectReference: {fileID: 0}
+    - target: {fileID: 6203872654446539604, guid: f9d58f92ef45c634cab5eb4b0ea877e1, type: 3}
+      propertyPath: m_margin.x
+      value: -303.40125
+      objectReference: {fileID: 0}
+    - target: {fileID: 6203872654446539604, guid: f9d58f92ef45c634cab5eb4b0ea877e1, type: 3}
+      propertyPath: m_margin.z
+      value: -345.54004
+      objectReference: {fileID: 0}
+    - target: {fileID: 6203872654446539604, guid: f9d58f92ef45c634cab5eb4b0ea877e1, type: 3}
+      propertyPath: m_enableAutoSizing
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 6203872654446539604, guid: f9d58f92ef45c634cab5eb4b0ea877e1, type: 3}
+      propertyPath: m_HorizontalAlignment
+      value: 8
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: f9d58f92ef45c634cab5eb4b0ea877e1, type: 3}

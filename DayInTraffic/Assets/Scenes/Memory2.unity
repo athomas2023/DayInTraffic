@@ -214,6 +214,198 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 6203872653863369843, guid: f9d58f92ef45c634cab5eb4b0ea877e1, type: 3}
+      propertyPath: maxDialogEntries
+      value: 7
+      objectReference: {fileID: 0}
+    - target: {fileID: 6203872653863369843, guid: f9d58f92ef45c634cab5eb4b0ea877e1, type: 3}
+      propertyPath: dialogEntries.Array.size
+      value: 7
+      objectReference: {fileID: 0}
+    - target: {fileID: 6203872653863369843, guid: f9d58f92ef45c634cab5eb4b0ea877e1, type: 3}
+      propertyPath: dialogEntries.Array.data[0].text
+      value: 'After my rounds i ran into 2 phones on the ground '
+      objectReference: {fileID: 0}
+    - target: {fileID: 6203872653863369843, guid: f9d58f92ef45c634cab5eb4b0ea877e1, type: 3}
+      propertyPath: dialogEntries.Array.data[1].text
+      value: 'Odd they typically never have any technology near the apartment '
+      objectReference: {fileID: 0}
+    - target: {fileID: 6203872653863369843, guid: f9d58f92ef45c634cab5eb4b0ea877e1, type: 3}
+      propertyPath: dialogEntries.Array.data[2].text
+      value: 'Sadly these phones didnt work. It would be nice to call for help. '
+      objectReference: {fileID: 0}
+    - target: {fileID: 6203872653863369843, guid: f9d58f92ef45c634cab5eb4b0ea877e1, type: 3}
+      propertyPath: dialogEntries.Array.data[3].font
+      value: 
+      objectReference: {fileID: 11400000, guid: 015dd337b7c9ccc4ebf81085c2b7b4fc, type: 2}
+    - target: {fileID: 6203872653863369843, guid: f9d58f92ef45c634cab5eb4b0ea877e1, type: 3}
+      propertyPath: dialogEntries.Array.data[3].text
+      value: I am afraid that if no one can save us it in time it will be to let
+        before they try to kill us.
+      objectReference: {fileID: 0}
+    - target: {fileID: 6203872653863369843, guid: f9d58f92ef45c634cab5eb4b0ea877e1, type: 3}
+      propertyPath: dialogEntries.Array.data[4].font
+      value: 
+      objectReference: {fileID: 11400000, guid: 015dd337b7c9ccc4ebf81085c2b7b4fc, type: 2}
+    - target: {fileID: 6203872653863369843, guid: f9d58f92ef45c634cab5eb4b0ea877e1, type: 3}
+      propertyPath: dialogEntries.Array.data[4].text
+      value: Over in the garden was grace. She was capture when she was young. She
+        worked her way up to being in the garden.
+      objectReference: {fileID: 0}
+    - target: {fileID: 6203872653863369843, guid: f9d58f92ef45c634cab5eb4b0ea877e1, type: 3}
+      propertyPath: dialogEntries.Array.data[5].font
+      value: 
+      objectReference: {fileID: 11400000, guid: 015dd337b7c9ccc4ebf81085c2b7b4fc, type: 2}
+    - target: {fileID: 6203872653863369843, guid: f9d58f92ef45c634cab5eb4b0ea877e1, type: 3}
+      propertyPath: dialogEntries.Array.data[5].text
+      value: grace asked me if I can help her for a bit. The bear overseer beat her
+        yesturday for not having enough food .
+      objectReference: {fileID: 0}
+    - target: {fileID: 6203872653863369843, guid: f9d58f92ef45c634cab5eb4b0ea877e1, type: 3}
+      propertyPath: dialogEntries.Array.data[6].font
+      value: 
+      objectReference: {fileID: 11400000, guid: 015dd337b7c9ccc4ebf81085c2b7b4fc, type: 2}
+    - target: {fileID: 6203872653863369843, guid: f9d58f92ef45c634cab5eb4b0ea877e1, type: 3}
+      propertyPath: dialogEntries.Array.data[6].text
+      value: It the least i can do. There not much hope left and I have time to spare
+        before I need to make another round.
+      objectReference: {fileID: 0}
+    - target: {fileID: 6203872653863369843, guid: f9d58f92ef45c634cab5eb4b0ea877e1, type: 3}
+      propertyPath: dialogEntries.Array.data[3].fontSize
+      value: 72
+      objectReference: {fileID: 0}
+    - target: {fileID: 6203872653863369843, guid: f9d58f92ef45c634cab5eb4b0ea877e1, type: 3}
+      propertyPath: dialogEntries.Array.data[4].fontSize
+      value: 72
+      objectReference: {fileID: 0}
+    - target: {fileID: 6203872653863369843, guid: f9d58f92ef45c634cab5eb4b0ea877e1, type: 3}
+      propertyPath: dialogEntries.Array.data[5].fontSize
+      value: 72
+      objectReference: {fileID: 0}
+    - target: {fileID: 6203872653863369843, guid: f9d58f92ef45c634cab5eb4b0ea877e1, type: 3}
+      propertyPath: dialogEntries.Array.data[6].fontSize
+      value: 72
+      objectReference: {fileID: 0}
+    - target: {fileID: 6203872653863369843, guid: f9d58f92ef45c634cab5eb4b0ea877e1, type: 3}
+      propertyPath: dialogEntries.Array.data[3].fontColor.a
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 6203872653863369843, guid: f9d58f92ef45c634cab5eb4b0ea877e1, type: 3}
+      propertyPath: dialogEntries.Array.data[3].fontColor.b
+      value: 0.9765041
+      objectReference: {fileID: 0}
+    - target: {fileID: 6203872653863369843, guid: f9d58f92ef45c634cab5eb4b0ea877e1, type: 3}
+      propertyPath: dialogEntries.Array.data[3].fontColor.g
+      value: 0.9765041
+      objectReference: {fileID: 0}
+    - target: {fileID: 6203872653863369843, guid: f9d58f92ef45c634cab5eb4b0ea877e1, type: 3}
+      propertyPath: dialogEntries.Array.data[3].fontColor.r
+      value: 0.9811321
+      objectReference: {fileID: 0}
+    - target: {fileID: 6203872653863369843, guid: f9d58f92ef45c634cab5eb4b0ea877e1, type: 3}
+      propertyPath: dialogEntries.Array.data[4].fontColor.a
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 6203872653863369843, guid: f9d58f92ef45c634cab5eb4b0ea877e1, type: 3}
+      propertyPath: dialogEntries.Array.data[4].fontColor.b
+      value: 0.9765041
+      objectReference: {fileID: 0}
+    - target: {fileID: 6203872653863369843, guid: f9d58f92ef45c634cab5eb4b0ea877e1, type: 3}
+      propertyPath: dialogEntries.Array.data[4].fontColor.g
+      value: 0.9765041
+      objectReference: {fileID: 0}
+    - target: {fileID: 6203872653863369843, guid: f9d58f92ef45c634cab5eb4b0ea877e1, type: 3}
+      propertyPath: dialogEntries.Array.data[4].fontColor.r
+      value: 0.9811321
+      objectReference: {fileID: 0}
+    - target: {fileID: 6203872653863369843, guid: f9d58f92ef45c634cab5eb4b0ea877e1, type: 3}
+      propertyPath: dialogEntries.Array.data[5].fontColor.a
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 6203872653863369843, guid: f9d58f92ef45c634cab5eb4b0ea877e1, type: 3}
+      propertyPath: dialogEntries.Array.data[5].fontColor.b
+      value: 0.9765041
+      objectReference: {fileID: 0}
+    - target: {fileID: 6203872653863369843, guid: f9d58f92ef45c634cab5eb4b0ea877e1, type: 3}
+      propertyPath: dialogEntries.Array.data[5].fontColor.g
+      value: 0.9765041
+      objectReference: {fileID: 0}
+    - target: {fileID: 6203872653863369843, guid: f9d58f92ef45c634cab5eb4b0ea877e1, type: 3}
+      propertyPath: dialogEntries.Array.data[5].fontColor.r
+      value: 0.9811321
+      objectReference: {fileID: 0}
+    - target: {fileID: 6203872653863369843, guid: f9d58f92ef45c634cab5eb4b0ea877e1, type: 3}
+      propertyPath: dialogEntries.Array.data[6].fontColor.a
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 6203872653863369843, guid: f9d58f92ef45c634cab5eb4b0ea877e1, type: 3}
+      propertyPath: dialogEntries.Array.data[6].fontColor.b
+      value: 0.9765041
+      objectReference: {fileID: 0}
+    - target: {fileID: 6203872653863369843, guid: f9d58f92ef45c634cab5eb4b0ea877e1, type: 3}
+      propertyPath: dialogEntries.Array.data[6].fontColor.g
+      value: 0.9765041
+      objectReference: {fileID: 0}
+    - target: {fileID: 6203872653863369843, guid: f9d58f92ef45c634cab5eb4b0ea877e1, type: 3}
+      propertyPath: dialogEntries.Array.data[6].fontColor.r
+      value: 0.9811321
+      objectReference: {fileID: 0}
+    - target: {fileID: 6203872653863369843, guid: f9d58f92ef45c634cab5eb4b0ea877e1, type: 3}
+      propertyPath: dialogEntries.Array.data[0].typeWriterSpeed
+      value: 0.05
+      objectReference: {fileID: 0}
+    - target: {fileID: 6203872653863369843, guid: f9d58f92ef45c634cab5eb4b0ea877e1, type: 3}
+      propertyPath: dialogEntries.Array.data[1].typeWriterSpeed
+      value: 0.05
+      objectReference: {fileID: 0}
+    - target: {fileID: 6203872653863369843, guid: f9d58f92ef45c634cab5eb4b0ea877e1, type: 3}
+      propertyPath: dialogEntries.Array.data[2].typeWriterSpeed
+      value: 0.05
+      objectReference: {fileID: 0}
+    - target: {fileID: 6203872653863369843, guid: f9d58f92ef45c634cab5eb4b0ea877e1, type: 3}
+      propertyPath: dialogEntries.Array.data[3].typeWriterSpeed
+      value: 0.05
+      objectReference: {fileID: 0}
+    - target: {fileID: 6203872653863369843, guid: f9d58f92ef45c634cab5eb4b0ea877e1, type: 3}
+      propertyPath: dialogEntries.Array.data[4].typeWriterSpeed
+      value: 0.05
+      objectReference: {fileID: 0}
+    - target: {fileID: 6203872653863369843, guid: f9d58f92ef45c634cab5eb4b0ea877e1, type: 3}
+      propertyPath: dialogEntries.Array.data[5].typeWriterSpeed
+      value: 0.05
+      objectReference: {fileID: 0}
+    - target: {fileID: 6203872653863369843, guid: f9d58f92ef45c634cab5eb4b0ea877e1, type: 3}
+      propertyPath: dialogEntries.Array.data[6].typeWriterSpeed
+      value: 0.05
+      objectReference: {fileID: 0}
+    - target: {fileID: 6203872653863369843, guid: f9d58f92ef45c634cab5eb4b0ea877e1, type: 3}
+      propertyPath: dialogEntries.Array.data[0].typeWriterEffect
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 6203872653863369843, guid: f9d58f92ef45c634cab5eb4b0ea877e1, type: 3}
+      propertyPath: dialogEntries.Array.data[1].typeWriterEffect
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 6203872653863369843, guid: f9d58f92ef45c634cab5eb4b0ea877e1, type: 3}
+      propertyPath: dialogEntries.Array.data[2].typeWriterEffect
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 6203872653863369843, guid: f9d58f92ef45c634cab5eb4b0ea877e1, type: 3}
+      propertyPath: dialogEntries.Array.data[3].typeWriterEffect
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 6203872653863369843, guid: f9d58f92ef45c634cab5eb4b0ea877e1, type: 3}
+      propertyPath: dialogEntries.Array.data[4].typeWriterEffect
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 6203872653863369843, guid: f9d58f92ef45c634cab5eb4b0ea877e1, type: 3}
+      propertyPath: dialogEntries.Array.data[5].typeWriterEffect
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 6203872653863369843, guid: f9d58f92ef45c634cab5eb4b0ea877e1, type: 3}
+      propertyPath: dialogEntries.Array.data[6].typeWriterEffect
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 6203872653863369844, guid: f9d58f92ef45c634cab5eb4b0ea877e1, type: 3}
       propertyPath: m_Name
       value: memory
@@ -301,6 +493,18 @@ PrefabInstance:
     - target: {fileID: 6203872653863370127, guid: f9d58f92ef45c634cab5eb4b0ea877e1, type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6203872654446539604, guid: f9d58f92ef45c634cab5eb4b0ea877e1, type: 3}
+      propertyPath: m_margin.x
+      value: -356.77747
+      objectReference: {fileID: 0}
+    - target: {fileID: 6203872654446539604, guid: f9d58f92ef45c634cab5eb4b0ea877e1, type: 3}
+      propertyPath: m_margin.z
+      value: -539.37976
+      objectReference: {fileID: 0}
+    - target: {fileID: 6203872654446539604, guid: f9d58f92ef45c634cab5eb4b0ea877e1, type: 3}
+      propertyPath: m_HorizontalAlignment
+      value: 8
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: f9d58f92ef45c634cab5eb4b0ea877e1, type: 3}

@@ -4,15 +4,16 @@ using UnityEngine;
 
 public class Carriotpickup : MonoBehaviour
 {
-    // Start is called before the first frame update
-    void Start()
+    void OnTriggerEnter2D(Collider2D other)
     {
-        
-    }
-
-    // Update is called once per frame
-    void Update()
-    {
-        
+        if (other.gameObject.CompareTag("Player"))
+        {
+            CarriotManager carriotManager = other.gameObject.GetComponent<CarriotManager>();
+            if (carriotManager != null)
+            {
+                carriotManager.UpdateCarriotCount();
+                Destroy(gameObject);
+            }
+        }
     }
 }

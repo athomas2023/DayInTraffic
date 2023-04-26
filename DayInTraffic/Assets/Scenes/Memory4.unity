@@ -130,6 +130,87 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 6203872653863369843, guid: f9d58f92ef45c634cab5eb4b0ea877e1, type: 3}
+      propertyPath: nextScene
+      value: Credits
+      objectReference: {fileID: 0}
+    - target: {fileID: 6203872653863369843, guid: f9d58f92ef45c634cab5eb4b0ea877e1, type: 3}
+      propertyPath: dialogEntries.Array.size
+      value: 4
+      objectReference: {fileID: 0}
+    - target: {fileID: 6203872653863369843, guid: f9d58f92ef45c634cab5eb4b0ea877e1, type: 3}
+      propertyPath: dialogEntries.Array.data[0].text
+      value: This One Works......
+      objectReference: {fileID: 0}
+    - target: {fileID: 6203872653863369843, guid: f9d58f92ef45c634cab5eb4b0ea877e1, type: 3}
+      propertyPath: dialogEntries.Array.data[1].text
+      value: .......Butterscotts...
+      objectReference: {fileID: 0}
+    - target: {fileID: 6203872653863369843, guid: f9d58f92ef45c634cab5eb4b0ea877e1, type: 3}
+      propertyPath: dialogEntries.Array.data[2].text
+      value: What will happen if I call the police... and they do a wellness check
+        and everyone pretends to be ok
+      objectReference: {fileID: 0}
+    - target: {fileID: 6203872653863369843, guid: f9d58f92ef45c634cab5eb4b0ea877e1, type: 3}
+      propertyPath: dialogEntries.Array.data[3].font
+      value: 
+      objectReference: {fileID: 11400000, guid: 015dd337b7c9ccc4ebf81085c2b7b4fc, type: 2}
+    - target: {fileID: 6203872653863369843, guid: f9d58f92ef45c634cab5eb4b0ea877e1, type: 3}
+      propertyPath: dialogEntries.Array.data[3].text
+      value: '....There only one way to find out.... '
+      objectReference: {fileID: 0}
+    - target: {fileID: 6203872653863369843, guid: f9d58f92ef45c634cab5eb4b0ea877e1, type: 3}
+      propertyPath: dialogEntries.Array.data[3].fontSize
+      value: 72
+      objectReference: {fileID: 0}
+    - target: {fileID: 6203872653863369843, guid: f9d58f92ef45c634cab5eb4b0ea877e1, type: 3}
+      propertyPath: dialogEntries.Array.data[3].fontColor.a
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 6203872653863369843, guid: f9d58f92ef45c634cab5eb4b0ea877e1, type: 3}
+      propertyPath: dialogEntries.Array.data[3].fontColor.b
+      value: 0.9765041
+      objectReference: {fileID: 0}
+    - target: {fileID: 6203872653863369843, guid: f9d58f92ef45c634cab5eb4b0ea877e1, type: 3}
+      propertyPath: dialogEntries.Array.data[3].fontColor.g
+      value: 0.9765041
+      objectReference: {fileID: 0}
+    - target: {fileID: 6203872653863369843, guid: f9d58f92ef45c634cab5eb4b0ea877e1, type: 3}
+      propertyPath: dialogEntries.Array.data[3].fontColor.r
+      value: 0.9811321
+      objectReference: {fileID: 0}
+    - target: {fileID: 6203872653863369843, guid: f9d58f92ef45c634cab5eb4b0ea877e1, type: 3}
+      propertyPath: dialogEntries.Array.data[0].typeWriterSpeed
+      value: 0.05
+      objectReference: {fileID: 0}
+    - target: {fileID: 6203872653863369843, guid: f9d58f92ef45c634cab5eb4b0ea877e1, type: 3}
+      propertyPath: dialogEntries.Array.data[1].typeWriterSpeed
+      value: 0.05
+      objectReference: {fileID: 0}
+    - target: {fileID: 6203872653863369843, guid: f9d58f92ef45c634cab5eb4b0ea877e1, type: 3}
+      propertyPath: dialogEntries.Array.data[2].typeWriterSpeed
+      value: 0.05
+      objectReference: {fileID: 0}
+    - target: {fileID: 6203872653863369843, guid: f9d58f92ef45c634cab5eb4b0ea877e1, type: 3}
+      propertyPath: dialogEntries.Array.data[3].typeWriterSpeed
+      value: 0.05
+      objectReference: {fileID: 0}
+    - target: {fileID: 6203872653863369843, guid: f9d58f92ef45c634cab5eb4b0ea877e1, type: 3}
+      propertyPath: dialogEntries.Array.data[0].typeWriterEffect
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 6203872653863369843, guid: f9d58f92ef45c634cab5eb4b0ea877e1, type: 3}
+      propertyPath: dialogEntries.Array.data[1].typeWriterEffect
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 6203872653863369843, guid: f9d58f92ef45c634cab5eb4b0ea877e1, type: 3}
+      propertyPath: dialogEntries.Array.data[2].typeWriterEffect
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 6203872653863369843, guid: f9d58f92ef45c634cab5eb4b0ea877e1, type: 3}
+      propertyPath: dialogEntries.Array.data[3].typeWriterEffect
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 6203872653863369844, guid: f9d58f92ef45c634cab5eb4b0ea877e1, type: 3}
       propertyPath: m_Name
       value: memory
@@ -217,6 +298,30 @@ PrefabInstance:
     - target: {fileID: 6203872653863370127, guid: f9d58f92ef45c634cab5eb4b0ea877e1, type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6203872654446539604, guid: f9d58f92ef45c634cab5eb4b0ea877e1, type: 3}
+      propertyPath: m_fontSize
+      value: 72
+      objectReference: {fileID: 0}
+    - target: {fileID: 6203872654446539604, guid: f9d58f92ef45c634cab5eb4b0ea877e1, type: 3}
+      propertyPath: m_margin.w
+      value: -137.51239
+      objectReference: {fileID: 0}
+    - target: {fileID: 6203872654446539604, guid: f9d58f92ef45c634cab5eb4b0ea877e1, type: 3}
+      propertyPath: m_margin.x
+      value: -322.36523
+      objectReference: {fileID: 0}
+    - target: {fileID: 6203872654446539604, guid: f9d58f92ef45c634cab5eb4b0ea877e1, type: 3}
+      propertyPath: m_margin.z
+      value: -457.6234
+      objectReference: {fileID: 0}
+    - target: {fileID: 6203872654446539604, guid: f9d58f92ef45c634cab5eb4b0ea877e1, type: 3}
+      propertyPath: m_enableAutoSizing
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 6203872654446539604, guid: f9d58f92ef45c634cab5eb4b0ea877e1, type: 3}
+      propertyPath: m_HorizontalAlignment
+      value: 8
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: f9d58f92ef45c634cab5eb4b0ea877e1, type: 3}

@@ -32,6 +32,7 @@ public class DialogManager : MonoBehaviour
 
     void Start()
     {
+        Time.timeScale = 1f;
         if (dialogEntries.Length > 0)
         {
             currentDialog = dialogEntries[currentDialogIndex].text;
